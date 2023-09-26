@@ -25,11 +25,8 @@ Before running the project, make sure you have the required hardware components 
    pip install machine ssd1306 utime
 ## Usage
     - Connect the SSD1306 OLED display and GPS module to your microcontroller according to the wiring instructions.
-   
     - Run the code on your microcontroller.
-
     - The OLED display will show GPS data, including latitude, longitude, satellites, time, speed, heading, and velocity (if available).
-   
     - The GPS data is also printed to the console.
 
 ## Configuration
